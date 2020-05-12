@@ -2,4 +2,5 @@ git remote add origin https://github.com/FirstMary/testing.git
 git push -u origin master
 print("This file was created within RStudio. And now it lives on GitHub")
 
-my_var_2 <- 23
+my_var_2 <- 27
+my_var_7 <- my_var_2-2
